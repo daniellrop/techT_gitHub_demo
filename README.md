@@ -21,4 +21,4 @@
 - [ ] Taking out the trash
 
 
-Testing gitHub was the ==HILIGHT== of my day.
+Testing gitHub was the ==HILIGHT==. of my day.
