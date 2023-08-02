@@ -21,4 +21,4 @@
 - [ ] Taking out the trash
 
 
-Testing gitHub was the ==HIGHLIGHT==.
+Testing gitHub was the ==highlight==.
