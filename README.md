@@ -13,3 +13,9 @@
 | DATE | NAME |
 | -------- | -------- |
 | 02.08.23 | Daniel   |
+
+- [x] Testing a few readme file inputs
+
+- [ ] Finishing all of them
+
+- [ ] Taking out the trash
