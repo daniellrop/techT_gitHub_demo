@@ -21,4 +21,4 @@
 - [ ] Taking out the trash
 
 
-Testing gitHub was the ==highlight==.
+Testing gitHub was the <mark>highlight</mark> of the day.
